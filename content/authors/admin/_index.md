@@ -3,12 +3,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Ocean Ecology and Biogeochemistry
+    institution: Oregon State University
+    year: 2022
+  - course: MS in Ecology
+    institution: University of California, Davis
+    year: 2017
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
